@@ -152,8 +152,8 @@ function Home() {
                 </div>
             </div>
         </div>
-        <Chart />
     </div>
+    <Chart />
   </>
 
 
